@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# harshvb7.github.io
-=======
-
->>>>>>> origin/master
+# as544x.github.io
