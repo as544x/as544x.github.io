@@ -1,5 +1,3 @@
-# as544x.github.io
-<!DOCTYPE html>
 <html>
     <head>
         
