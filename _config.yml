@@ -4,29 +4,29 @@
 baseurl: /
 
 # Site live URL
-url: https://harshvb7.github.io
+url: https://as544x.github.io
 
 # Localhost
-# url: http://127.0.0.1:4000
+
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Harsh Bhimjyani
+  name: Ankush Sakhalkar
   meta_description: > #
-    Github - https://github.com/harshvb7
+    Github - https://github.com/as544x
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Harsh Bhimjyani
-    email: harshvb7@gmail.com
-    url: https://harshvb7.github.io
+    name: Ankush Sakhalkar
+    email: github544x@gmail.com
+    url: https://as544x.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
   social:
-    github: harshvb7
-    twitter: harsh_bhimjyani
+    github: as544x
+    twitter: ankushsakhalkar
   # Toggle disclaimer in footer
   show_disclaimer: true
 
